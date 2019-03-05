@@ -10,6 +10,5 @@
 
 *Wi-fi pptx -> Presentation of the project to the management team
 
-![Wi-fi](/Ubiqum_Project.4/Capture2.PNG?raw=true "Optional Title")
       
 
